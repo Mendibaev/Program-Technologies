@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\простое число 1\простое число 1\bin\Debug\простое число 1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\простое число 1\простое число 1\bin\Debug\простое число 1.exe
+c:\users\user\documents\visual studio 2015\Projects\простое число 1\простое число 1\bin\Debug\простое число 1.pdb
+c:\users\user\documents\visual studio 2015\Projects\простое число 1\простое число 1\obj\Debug\простое число 1.exe
+c:\users\user\documents\visual studio 2015\Projects\простое число 1\простое число 1\obj\Debug\простое число 1.pdb
